@@ -7,17 +7,19 @@ import Footer from '../components/Footer'
 import Section6 from '../components/Section6'
 import Section5 from '../components/Section5'
 import Section4 from '../components/Section4'
+import Section1 from '../components/Section1'
 
 function Home() {
   return (
     <>
-    <Navbar/>
+     <Navbar/>
     <div className='bg-white text-black'>
+    <Section1/>
     <Section4/>
     <Section5/>
     <Section6/>
     </div>
-    <Footer/>
+    <Footer/> 
     </>
   )
 }
