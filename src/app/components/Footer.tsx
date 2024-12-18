@@ -8,8 +8,8 @@ function Footer() {
   return (
     <>
       <div className="bg-[#181E2D] text-white py-10 lg:text-lg">
-        <div className="flex flex-col lg:flex-row justify-between items-center md:space-y-6 lg:space-y-0 px-4 sm:px-16">
-          <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
+        <div className="flex flex-col  lg:flex-row justify-around items-center md:space-y-6 lg:space-y-0 px-4 sm:px-16">
+          <div className="flex flex-col  items-center text-center lg:items-start lg:text-left">
             <Image
               height={100}
               width={200}
@@ -17,11 +17,11 @@ function Footer() {
               alt="Footer-logo"
               className="mx-auto pb-4 lg:mx-0"
             />
-            <div className="flex flex-col pb-10 md:pb-2 lg:flex-row lg:items-center lg:space-x-6 mt-4">
-              <h5 className="flex items-center justify-center lg:justify-start text-sm sm:text-lg mb-2 lg:mb-0">
+            <div className="flex flex-col pb-10 md:pb-2 lg:flex-row lg:items-center space-x-6 mt-4">
+              <h5 className="flex items-center justify-center lg:justify-start text-sm sm:text-md mb-2 lg:mb-0">
                 <BsFillTelephoneFill className="mr-2" /> +92-3106733754
               </h5>
-              <h5 className="flex items-center justify-center lg:justify-start text-sm sm:text-lg">
+              <h5 className="flex items-center me-14 justify-center lg:justify-start text-sm sm:text-md">
                 <HiOutlineMail className="mr-2" /> huzaifaqadir10@gmail.com
               </h5>
             </div>

@@ -17,13 +17,13 @@ export default function Navbar() {
     <nav style={{ backgroundColor: "#1E2538" }} className="text-white">
       <div className="flex justify-end  font-bold text-slate-300  p-2 sm:p-4">
         <div className="flex flex-wrap items-center space-x-2">
-          <h4 className="flex items-center   text-md sm:text-md">
-            <BsFillTelephoneFill className="mt-0.5 ms-2 me-1.5 text-2xl" /> +92-3106733754
+          <h4 className="flex items-center   text-sm sm:text-sm">
+            <BsFillTelephoneFill className="mt-0.5 ms-2 me-1.5 sm:text-sm" /> +92-3106733754
           </h4>
           <h4 className="flex items-center text-sm sm:text-base">
-            <HiOutlineMail className="mt-1 me-1.5 text-2xl"  /> huzaifaqadir10@gmail.com
+            <HiOutlineMail className="mt-1 me-1.5 text-lg"  /> huzaifaqadir10@gmail.com
           </h4>
-          <div className="flex ps-0 space-x-2 text-xl mt-1">
+          <div className="flex ps-0 space-x-2 text-md mt-1">
             <FaFacebookSquare className="mt-0.5" />
             <FaInstagram className="mt-0.5" />
             <FaXTwitter className="mt-0.5" />
