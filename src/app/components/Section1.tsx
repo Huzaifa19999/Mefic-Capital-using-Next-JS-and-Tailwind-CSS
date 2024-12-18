@@ -4,7 +4,7 @@ function Section1() {
   return (
     <>
       <section className='mt-10 mb-10'>
-        <div className='ms-12'>
+        <div className='ms-6'>
           <h1 className='section1-heading1 text-3xl sm:text-4xl md:text-5xl lg:text-6xl'>
             Our <span className='font-bold'>Experience,Skills</span> & <br /> Expertise, <span className='font-bold' style={{ color: '#E95A06' }}>Your Profit</span>
           </h1>
