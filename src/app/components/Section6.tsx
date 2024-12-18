@@ -15,7 +15,7 @@ function Section6() {
   return (
     <>
     <section className='section6-font mt-10 flex flex-col items-center mb-12'>
-        <h1 className='text-4xl text-center'>MEFIC Capital <span className ='font-bold text-[#E95A0C]'>Portfolio</span></h1>
+        <h1 className='text-4xl text-center'>MEFIC Capital <span className ='font-extrabold text-[#E95A0C]'>Portfolio</span></h1>
         <br />
         <hr className='section6-hr' />
         <br />

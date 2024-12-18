@@ -6,7 +6,7 @@ function Section1() {
       <section className='mt-10 mb-10'>
         <div className='ms-6'>
           <h1 className='section1-heading1 text-3xl sm:text-4xl md:text-5xl lg:text-6xl'>
-            Our <span className='font-bold'>Experience,Skills</span> & <br /> Expertise, <span className='font-bold' style={{ color: '#E95A06' }}>Your Profit</span>
+            Our <span className='font-extrabold'>Experience,Skills</span> & <br /> Expertise, <span className='font-bold font-extrabold' style={{ color: '#E95A06' }}>Your Profit</span>
           </h1>
           <hr className='border-2 mt-4 border-black w-40 sm:w-60 md:w-80' />
           <p className='me-3 mt-5 sm:w-10/12 md:w-9/12 lg:w-10/12'>
@@ -18,7 +18,7 @@ function Section1() {
           <div className='w-full sm:w-6/12 lg:w-4/12 border-r-2 mt-4 p-8'>
             <h5 className='text-[#E95A0C] font-bold'>FIRST</h5>
             <h3 className='text-3xl'>
-              <span className='font-bold'>Dramatically</span> <br /> maintain solutions
+              <span className='font-extrabold'>Dramatically</span> <br /> maintain solutions
             </h3>
             <br />
             <h3 className='w-66'>
@@ -30,7 +30,7 @@ function Section1() {
           <div className='w-full sm:w-6/12  lg:w-4/12 border-r-2 mt-4 p-8'>
             <h5 className='text-[#E95A0C] font-bold'>SECOND</h5>
             <h3 className='text-3xl'>
-              <span className='font-bold'>Efficiently unleash</span> <br /> media information
+              <span className='font-extrabold'>Efficiently unleash</span> <br /> media information
             </h3>
             <br />
             <h3 className='w-66'>
@@ -42,7 +42,7 @@ function Section1() {
           <div className='w-full sm:w-12/12  lg:w-4/12 border-r-2 mt-4 p-8'>
             <h5 className='text-[#E95A0C] font-bold'>THIRD</h5>
             <h3 className='text-3xl'>
-              <span className='font-bold'>Quickly maximize</span> <br /> timely deliverables
+              <span className='font-extrabold'>Quickly maximize</span> <br /> timely deliverables
             </h3>
             <br />
             <h3 className='w-66'>

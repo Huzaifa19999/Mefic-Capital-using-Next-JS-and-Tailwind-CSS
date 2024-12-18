@@ -38,14 +38,14 @@ function Section4() {
       </div>
       <div className="px-4 py-2">
         <button className="bg-slate-300 mb-3  font-bold text-black px-4 py-2 rounded">MEFIC FUNDS</button>
-        <h1 className='text-3xl'>To <span className='font-bold'>Find</span> The Best <span className='text-[#E95A0C] font-bold'>MEFIC <br /> Funds?</span></h1>
+        <h1 className='text-3xl'>To <span className='font-extrabold'>Find</span> The Best <span className='text-[#E95A0C] font-extrabold'>MEFIC <br /> Funds?</span></h1>
         <br />
         <hr className='border-2 border-gray-700 w-32' />
         <br />
         <p className='w-10/12'>Collaboratively administrate empowered markets via plug-and-play maintain networks. Dynamically usable procrastinate B2B users after installed base benefits. Dramatically maintain visualize customer directed convergence without revolutionary ROI.</p>
         <br />
         <br />
-        <button className='border-2 border-red-500 p-3 hover:text-white hover:bg-red-500 hover:border-black font-bold rounded'>Book a Consultant</button>
+        <button className='border-2 border-red-500 p-3 hover:text-white hover:bg-orange-600 hover:border-black font-bold rounded'>Book a Consultant</button>
       </div>
     </section>
   );

@@ -26,8 +26,8 @@ function Section5() {
   return (
     <section className="px-4 py-8">
       <h1 className="text-3xl ms-2 text-center md:text-start">
-        The <span className="font-bold">latest news</span> and our <br />
-        <span className="text-[#E95A0C] font-bold">portfolio companies</span>
+        The <span className="font-extrabold">latest news</span> and our <br />
+        <span className="text-[#E95A0C] text-md font-extrabold">portfolio companies</span>
       </h1>
       <hr className="border-2  border-slate-500 w-36 mt-3 mx-auto md:mx-2" />
       <p className="md:w-7/12 ms-2 sm:w-8/12 md:text-start text-center my-4">
