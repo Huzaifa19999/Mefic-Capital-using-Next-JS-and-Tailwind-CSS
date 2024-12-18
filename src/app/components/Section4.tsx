@@ -12,7 +12,7 @@ function Section4() {
   ];
 
   return (
-    <section className='grid grid-cols-1 px-24 md:grid-cols-2 mt-4 '>
+    <section className='grid grid-cols-1 md:grid-cols-2 mt-4 '>
       <div className="overflow-x-auto px-4 py-6">
         <table className="table-auto w-full border-collapse border border-gray-300 hover:shadow-lg transition-shadow duration-200">
           <thead className="bg-[#25304F]  text-white font-bold">
