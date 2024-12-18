@@ -11,7 +11,7 @@ function Home() {
   return (
     <>
     <Navbar/>
-    <div className='bg-white'>
+    <div className='bg-white text-black'>
     <Section5/>
     <Section6/>
     </div>
