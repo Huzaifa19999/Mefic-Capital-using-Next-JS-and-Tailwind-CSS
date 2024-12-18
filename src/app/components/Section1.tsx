@@ -9,7 +9,7 @@ function Section1() {
             Our <span className='font-bold'>Experience,Skills</span> & <br /> Expertise, <span className='font-bold' style={{ color: '#E95A06' }}>Your Profit</span>
           </h1>
           <hr className='border-2 mt-4 border-black w-40 sm:w-60 md:w-80' />
-          <p className='w-5/12 mt-5 sm:w-8/12 md:w-9/12 lg:w-10/12'>
+          <p className='me-3 mt-5 sm:w-10/12 md:w-9/12 lg:w-10/12'>
             Office ipsum you must be muted. Conversation banner gave dive investigation chime usability whatever. Winning of crystallize another container reinvent stands. Left you viral relaxation unlock t-shaped. Ideal deck support attached waste highlights game synchronize.
           </p>
           <hr className='mt-20 justify-center mx-auto w-full' />
