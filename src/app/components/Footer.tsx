@@ -7,8 +7,8 @@ import { FaFacebookSquare, FaInstagramSquare, FaTwitterSquare } from "react-icon
 function Footer() {
   return (
     <>
-      <div className="bg-[#2D3C65] text-white py-10 lg:text-lg">
-        <div className="flex flex-col lg:flex-row justify-between items-center space-y-8 lg:space-y-0 px-4 sm:px-16">
+      <div className="bg-[#181E2D] text-white py-10 lg:text-lg">
+        <div className="flex flex-col lg:flex-row justify-between items-center md:space-y-6 lg:space-y-0 px-4 sm:px-16">
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
             <Image
               height={100}
@@ -17,7 +17,7 @@ function Footer() {
               alt="Footer-logo"
               className="mx-auto pb-4 lg:mx-0"
             />
-            <div className="flex flex-col pb-20 md:pb-2 lg:flex-row lg:items-center lg:space-x-6 mt-4">
+            <div className="flex flex-col pb-10 md:pb-2 lg:flex-row lg:items-center lg:space-x-6 mt-4">
               <h5 className="flex items-center justify-center lg:justify-start text-sm sm:text-lg mb-2 lg:mb-0">
                 <BsFillTelephoneFill className="mr-2" /> +92-3106733754
               </h5>
@@ -27,9 +27,9 @@ function Footer() {
             </div>
           </div>
 
-          <div className="flex flex-col gap-4 sm:flex-row justify-around lg:justify-end space-y-6 sm:space-y-0 sm:space-x-8">
+          <div className="flex flex-col gap-4 sm:flex-row justify-around lg:justify-end sm:space-y-2 sm:space-x-8">
             <div className="text-center sm:text-left">
-              <ul className="space-y-2">
+              <ul className="space-y-2 mt-1">
                 <li className="text-xl font-bold">Solutions</li>
                 <li>Assets Management</li>
                 <li>Private Equity & IB</li>
@@ -37,7 +37,6 @@ function Footer() {
               </ul>
             </div>
 
-            {/* Helpful Links Section */}
             <div className="text-center sm:text-left">
               <ul className="space-y-2">
                 <li className="text-xl font-bold">Helpful Links</li>
