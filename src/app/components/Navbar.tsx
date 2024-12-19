@@ -16,7 +16,7 @@ export default function Navbar() {
   return (
     <nav style={{ backgroundColor: "#1E2538" }} className="text-white">
       <div className="flex justify-end  font-bold text-slate-300  p-2 sm:p-4">
-        <div className="flex flex-wrap items-center space-x-2">
+        <div className="md:flex flex-wrap items-center space-x-2 hidden">
           <h4 className="flex items-center   text-sm sm:text-sm">
             <BsFillTelephoneFill className="mt-0.5 ms-2 me-1.5 sm:text-sm" /> +92-3106733754
           </h4>
