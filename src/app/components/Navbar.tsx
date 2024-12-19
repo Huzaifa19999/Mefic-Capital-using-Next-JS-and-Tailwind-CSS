@@ -81,7 +81,7 @@ export default function Navbar() {
           <Link href="/about" className="block px-4 py-2 hover:bg-gray-600">About MEFIC</Link>
           <Link href="/services" className="block px-4 py-2 hover:bg-gray-600">Media Center</Link>
           <Link href="/contact" className="block px-4 py-2 hover:bg-gray-600">Career</Link>
-          <Button title="Book a Consultant" className="p-2 rounded-md border-0 mb-2 ms-2" style={{ backgroundColor: "#E95A0C" }} />
+          <Button title="Book a Consultant" className="p-2 rounded-md border-0 mb-2 ms-2 " style={{ backgroundColor: "#E95A0C" }} />
         </div>
       )}
     </nav>
